@@ -1,4 +1,4 @@
-### XEfnexX
+# XEfnexX
 
 ## Über mich 📜
 Ich bin ein YouTube-Creator und ein Developer.
@@ -8,6 +8,9 @@ Ein Discord Bot welcher als Moderator oder als Spiele Bot eingesetzt werden kann
 Hier unten findest du noch ein paar mehr Informationen über mich.
 
 ## Meine Erfahrungen 🧪
-Java - Ich habe mit Java 2017 angefangen und benutze es für Minecraft Plugins
-JavaScript - Ich habe mit JavaScript 2017 angefangen und benutze es für Discord Bots
-PHP - Ich habe mit PHP 2020 angefangen und benutze es für Webseiten
+### Java
+  - Ich habe mit Java 2017 angefangen und benutze es für Minecraft Plugins
+### JavaScript
+  - Ich habe mit JavaScript 2017 angefangen und benutze es für Discord Bots
+### PHP
+  - Ich habe mit PHP 2020 angefangen und benutze es für Webseiten
