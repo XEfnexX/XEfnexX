@@ -14,7 +14,7 @@ Hier unten findest du noch ein paar mehr Informationen über mich.
 [![PHP Badge](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&labelColor=black&logo=php&logoColor=8993be)](#)
 
 ## Social-Media 📱
-[![Mail Badge](https://img.shields.io/badge/-@xefnexx-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](http://url.xefnexx.de/Instagram) [![Twitter Badge](https://img.shields.io/badge/-@XEfnexX-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/XEfnexX)](http://url.xefnexx.de/Twitter) [![Mail Badge](https://img.shields.io/badge/-XEfnexX-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](http://url.xefnexx.de/YouTube)
+[![Instagram Badge](https://img.shields.io/badge/-XEfnexX-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white)](http://url.xefnexx.de/Discord) [![Instagram Badge](https://img.shields.io/badge/-@xefnexx-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](http://url.xefnexx.de/Instagram) [![Twitch Badge](https://img.shields.io/badge/-XEfnexX-6441a5?style=flat&labelColor=6441a5&logo=twitch&logoColor=white)](http://url.xefnexx.de/Instagram) [![Twitter Badge](https://img.shields.io/badge/-@XEfnexX-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/XEfnexX)](http://url.xefnexx.de/Twitter) [![Mail Badge](https://img.shields.io/badge/-XEfnexX-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](http://url.xefnexx.de/YouTube)
 
 <details>
   
