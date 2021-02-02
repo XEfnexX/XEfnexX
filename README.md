@@ -31,7 +31,7 @@ Hier unten findest du noch ein paar mehr Informationen über mich.
   ```
   
   #### GitHub Statistiken
-  [![XEfnexX's GitHub stats](https://github-readme-stats.vercel.app/api?username=XEfnexX&show_icons=true&theme=tokyonight)](https://github.com/XEfnexX/XEfnexX)
+  ![XEfnexX GitHub Stats](https://github-readme-stats.vercel.app/api?username=XEfnexX&show_icons=true&theme=tokyonight&hide_title=true)
   
 </details>
 
