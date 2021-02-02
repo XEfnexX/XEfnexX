@@ -8,13 +8,14 @@ Ein Discord Bot welcher als Moderator oder als Spiele Bot eingesetzt werden kann
 Hier unten findest du noch ein paar mehr Informationen über mich.
 
 ## Interessen 💡
+[![Discord Badge](https://img.shields.io/badge/-Discord-7289d9?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289d9)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-5382a1?style=for-the-badge&labelColor=black&logo=java&logoColor=5382a1)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![NodeJS Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&labelColor=black&logo=php&logoColor=8993be)](#)
 
 ## Social-Media 📱
-[![Instagram Badge](https://img.shields.io/badge/-XEfnexX-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white)](http://url.xefnexx.de/Discord) [![Instagram Badge](https://img.shields.io/badge/-@xefnexx-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](http://url.xefnexx.de/Instagram) [![Twitch Badge](https://img.shields.io/badge/-XEfnexX-6441a5?style=flat&labelColor=6441a5&logo=twitch&logoColor=white)](http://url.xefnexx.de/Twitch) [![Twitter Badge](https://img.shields.io/badge/-@XEfnexX-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/XEfnexX)](http://url.xefnexx.de/Twitter) [![YouTube Badge](https://img.shields.io/badge/-XEfnexX-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](http://url.xefnexx.de/YouTube)
+[![Discord Badge](https://img.shields.io/badge/-XEfnexX-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white)](http://url.xefnexx.de/Discord) [![Instagram Badge](https://img.shields.io/badge/-@xefnexx-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](http://url.xefnexx.de/Instagram) [![Twitch Badge](https://img.shields.io/badge/-XEfnexX-6441a5?style=flat&labelColor=6441a5&logo=twitch&logoColor=white)](http://url.xefnexx.de/Twitch) [![Twitter Badge](https://img.shields.io/badge/-@XEfnexX-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/XEfnexX)](http://url.xefnexx.de/Twitter) [![YouTube Badge](https://img.shields.io/badge/-XEfnexX-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](http://url.xefnexx.de/YouTube)
 
 <details>
   
