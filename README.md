@@ -15,7 +15,7 @@ Hier unten findest du noch ein paar mehr Informationen über mich.
                   [![GitHub Desktop Badge](https://img.shields.io/badge/-GitHub_Desktop-2c2f33?style=for-the-badge&labelColor=black&logo=github&logoColor=333)](#)
                   [![PuTTy Badge](https://img.shields.io/badge/-PuTTy-2c2f33?style=for-the-badge&labelColor=black&logo=windows&logoColor=00a4ef)](#)
                   [![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-2c2f33?style=for-the-badge&labelColor=black&logo=windows&logoColor=00a4ef)](#)
-- Programmiersprachen 🈹 : [![Java Badge](https://img.shields.io/badge/-Java-2c2f33?style=for-the-badge&labelColor=black&logo=java&logoColor=5382a1)](#)
+- Programmiersprachen 🈹 : [![Java Badge](https://img.shields.io/badge/-Java-2c2f33?style=for-the-badge&labelColor=black&logo=java&logoColor=f89820)](#)
                             [![Javascript Badge](https://img.shields.io/badge/-Javascript-2c2f33?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
                             [![NodeJS Badge](https://img.shields.io/badge/-Nodejs-2c2f33?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
                             [![PHP Badge](https://img.shields.io/badge/-PHP-2c2f33?style=for-the-badge&labelColor=black&logo=php&logoColor=8993be)](#)
@@ -23,42 +23,26 @@ Hier unten findest du noch ein paar mehr Informationen über mich.
                 [![Debian Badge](https://img.shields.io/badge/-Debian-2c2f33?style=for-the-badge&labelColor=black&logo=debian&logoColor=d70a53)](#)
                 [![Windows Badge](https://img.shields.io/badge/-Windows-2c2f33?style=for-the-badge&labelColor=black&logo=windows&logoColor=00a4ef)](#)
 
-
-## Social-Media 📱
-
-
 <details>
   
   <summary>
     Mehr Informationen über mich
   </summary>
   
-  <br>
-  Hier findest du nun ein paar mehr Informationen über mich.
-  
-  <details>
-    <summary>
-      Social-Media
-    </summary>
-  
-  [![Discord Badge](https://img.shields.io/badge/-XEfnexX-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white)](http://url.xefnexx.de/Discord)
-  [![Instagram Badge](https://img.shields.io/badge/-@xefnexx-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](http://url.xefnexx.de/Instagram)
-  [![Twitch Badge](https://img.shields.io/badge/-XEfnexX-6441a5?style=flat&labelColor=6441a5&logo=twitch&logoColor=white)](http://url.xefnexx.de/Twitch)
-  [![Twitter Badge](https://img.shields.io/badge/-@XEfnexX-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](http://url.xefnexx.de/Twitter)
-  [![YouTube Badge](https://img.shields.io/badge/-XEfnexX-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](http://url.xefnexx.de/YouTube)
-  
-  </details>
+  #### Social-Media 📱
+  [![Discord Badge](https://img.shields.io/badge/-XEfnexX-7289da?style=for-the-badge&labelColor=7289da&logo=discord&logoColor=white)](http://url.xefnexx.de/Discord)
+  [![Instagram Badge](https://img.shields.io/badge/-@xefnexx-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](http://url.xefnexx.de/Instagram)
+  [![Twitch Badge](https://img.shields.io/badge/-XEfnexX-6441a5?style=for-the-badge&labelColor=6441a5&logo=twitch&logoColor=white)](http://url.xefnexx.de/Twitch)
+  [![Twitter Badge](https://img.shields.io/badge/-@XEfnexX-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](http://url.xefnexx.de/Twitter)
+  [![YouTube Badge](https://img.shields.io/badge/-XEfnexX-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](http://url.xefnexx.de/YouTube)
+
   
   
-  #### Meine Skills
-  ```text
-  Java          ██████████████░░░░░░░░░░░  50 % 
-  JavaScript    ██████████████████░░░░░░░   70 % 
-  PHP           ████████░░░░░░░░░░░░░░░░░   30 % 
-  ```
+  #### Meine Skills 🧬
+  [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=XEfnexX&langs_count=8)](#)
   
-  #### GitHub Statistiken
-  ![XEfnexX GitHub Stats](https://github-readme-stats.vercel.app/api?username=XEfnexX&show_icons=true&theme=tokyonight&hide_title=true)
+  #### GitHub Statistiken 📊
+  [![XEfnexX GitHub Stats](https://github-readme-stats.vercel.app/api?username=XEfnexX&show_icons=true&theme=tokyonight&hide_title=true)](#)
   
 </details>
 
