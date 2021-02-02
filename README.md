@@ -35,4 +35,4 @@ Hier unten findest du noch ein paar mehr Informationen über mich.
   
 </details>
 
-© Copyright 2021 - XEfnexX
+```© Copyright 2021 - XEfnexX```
