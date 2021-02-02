@@ -34,3 +34,5 @@ Hier unten findest du noch ein paar mehr Informationen über mich.
   ![XEfnexX GitHub Stats](https://github-readme-stats.vercel.app/api?username=XEfnexX&count_private=true&theme=tokyonight&hide=contribs,prs)
   
 </details>
+
+© Copyright 2021 - XEfnexX
