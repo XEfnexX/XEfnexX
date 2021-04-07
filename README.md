@@ -39,7 +39,7 @@ Hier unten findest du noch ein paar mehr Informationen über mich.
   
   
   #### Meine Skills 🧬
-  [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=XEfnexX&langs_count=8)](#)
+  [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=XEfnexX&langs_count=8&theme=tokyonight)](#)
   
   #### GitHub Statistiken 📊
   [![XEfnexX GitHub Stats](https://github-readme-stats.vercel.app/api?username=XEfnexX&show_icons=true&theme=tokyonight&hide_title=true)](#)
