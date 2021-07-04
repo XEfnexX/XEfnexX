@@ -1,47 +1,48 @@
-![XEfnexX Banner](http://assets.xefnexx.de/XEfunityBanner.jpg)
+![XEfnexX Banner](https://github.com/XEfnexX/XEfnexX/blob/main/assets/XEfnexX's%20Server%20-%20Banner.jpg)
 
-# XEfnexX <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# XEfnexX
 
-## Über mich 📜
-Ich bin ein YouTube-Creator und ein Developer.
-Ich bin auch der Inhaber von <a href=https://github.com/DisGroup-Development>@DisGroup Development</a>, welche Discord Bots programmieren.
-Eines unserer Projekte ist DisBot.
-Ein Discord Bot welcher als Moderator oder als Spiele Bot eingesetzt werden kann.
-Hier unten findest du noch ein paar mehr Informationen über mich.
+## 📜 Über mich
+Mein Name ist XEfnexX und ich bin ein Developer und YouTube-Creator. Ich bin der Besitzer von <a href=https://github.com/DisGroup-Development>@DisGroup Development</a> eine Entwickler-Gruppe in Deutschland, welche hauptsächlich Discord-Bots programmieren. Eines deren Projekte ist <a href=https://github.com/DisGroup-Development/DisBot>DisBot</a>. Ein Multifunktionsbot für Discord mit vielen Plugins wie zum Beispiel 🔨 Moderations-Plugin oder 🎶 Musik-Plugin. Mehr Informatioenen über DisBot findest du <a href=http://disgroup.xefnexx.de/DisBot>hier</a>. Weitere Informationen über mich sind unten.
 
-## Meine Erfahrungen 🎓
-- Programme 🖥 : [![Atom Badge](https://img.shields.io/badge/-Atom-2c2f33?style=for-the-badge&labelColor=black&logo=atom&logoColor=60b57e)](#)
-                  [![Discord Badge](https://img.shields.io/badge/-Discord-2c2f33?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289da)](#)
-                  [![GitHub Desktop Badge](https://img.shields.io/badge/-GitHub_Desktop-2c2f33?style=for-the-badge&labelColor=black&logo=github&logoColor=333)](#)
-                  [![PuTTy Badge](https://img.shields.io/badge/-PuTTy-2c2f33?style=for-the-badge&labelColor=black&logo=windows&logoColor=00a4ef)](#)
-                  [![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-2c2f33?style=for-the-badge&labelColor=black&logo=windows&logoColor=00a4ef)](#)
-- Programmiersprachen 🈹 : [![Java Badge](https://img.shields.io/badge/-Java-2c2f33?style=for-the-badge&labelColor=black&logo=java&logoColor=f89820)](#)
-                            [![Javascript Badge](https://img.shields.io/badge/-Javascript-2c2f33?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-                            [![NodeJS Badge](https://img.shields.io/badge/-Nodejs-2c2f33?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-                            [![PHP Badge](https://img.shields.io/badge/-PHP-2c2f33?style=for-the-badge&labelColor=black&logo=php&logoColor=8993be)](#)
-- Systeme 💻 : [![Android Badge](https://img.shields.io/badge/-Android-2c2f33?style=for-the-badge&labelColor=black&logo=android&logoColor=32DE84)](#)
-                [![Debian Badge](https://img.shields.io/badge/-Debian-2c2f33?style=for-the-badge&labelColor=black&logo=debian&logoColor=d70a53)](#)
-                [![Windows Badge](https://img.shields.io/badge/-Windows-2c2f33?style=for-the-badge&labelColor=black&logo=windows&logoColor=00a4ef)](#)
+## 🎓 Meine Erfahrungen
+- 🖥 Programme :  [![Atom Badge](https://img.shields.io/badge/-Atom-23272a?style=for-the-badge&labelColor=23272a&logo=atom&logoColor=60b57e)](https://atom.io)
+                  [![Discord Badge](https://img.shields.io/badge/-Discord-23272a?style=for-the-badge&labelColor=23272a&logo=Discord&logoColor=5865F2)](https://discord.com)
+                  [![GitHub Desktop Badge](https://img.shields.io/badge/-GitHub_Desktop-23272a?style=for-the-badge&labelColor=23272a&logo=github&logoColor=333)](https://desktop.github.com)
+                  [![PuTTy Badge](https://img.shields.io/badge/-PuTTy-23272a?style=for-the-badge&labelColor=23272a&logo=windows&logoColor=CDAE70)](https://putty.org)
+                  [![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-23272a?style=for-the-badge&labelColor=23272a&logo=visualstudiocode&logoColor=00a4ef)](https://code.visualstudio.com)
+
+- 🈹 Programmiersprachen : [![Java Badge](https://img.shields.io/badge/-Java-23272a?style=for-the-badge&labelColor=23272a&logo=java&logoColor=f89820)](https://java.com)
+                            [![Javascript Badge](https://img.shields.io/badge/-Javascript-23272a?style=for-the-badge&labelColor=23272a&logo=javascript&logoColor=F0DB4F)](https://js.org)
+                            [![NodeJS Badge](https://img.shields.io/badge/-Nodejs-23272a?style=for-the-badge&labelColor=23272a&logo=node.js&logoColor=3C873A)](https://nodejs.org)
+                            [![PHP Badge](https://img.shields.io/badge/-PHP-23272a?style=for-the-badge&labelColor=23272a&logo=php&logoColor=8993be)](https://php.net)
+
+- 💻 Systeme  : [![Android Badge](https://img.shields.io/badge/-Android-23272a?style=for-the-badge&labelColor=23272a&logo=android&logoColor=32DE84)](https://android.com)
+                [![Debian Badge](https://img.shields.io/badge/-Debian-23272a?style=for-the-badge&labelColor=23272a&logo=debian&logoColor=d70a53)](https://debian.org)
+                [![Windows Badge](https://img.shields.io/badge/-Windows-23272a?style=for-the-badge&labelColor=23272a&logo=windows&logoColor=00a4ef)](https://microsoft.com/windows)
 
 <details>
   
   <summary>
-    Mehr Informationen über mich
+    🧾 Mehr Informationen über mich
   </summary>
   
-  #### Social-Media 📱
-  [![Discord Badge](https://img.shields.io/badge/-XEfnexX-7289da?style=for-the-badge&labelColor=7289da&logo=discord&logoColor=white)](http://url.xefnexx.de/Discord)
-  [![Instagram Badge](https://img.shields.io/badge/-@xefnexx-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](http://url.xefnexx.de/Instagram)
-  [![Twitch Badge](https://img.shields.io/badge/-XEfnexX-6441a5?style=for-the-badge&labelColor=6441a5&logo=twitch&logoColor=white)](http://url.xefnexx.de/Twitch)
-  [![Twitter Badge](https://img.shields.io/badge/-@XEfnexX-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](http://url.xefnexx.de/Twitter)
-  [![YouTube Badge](https://img.shields.io/badge/-XEfnexX-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](http://url.xefnexx.de/YouTube)
+  #### 📱 Social-Media
+  [![Discord Badge](https://img.shields.io/badge/-XEfnexX-5865F2?style=for-the-badge&labelColor=5865F2&logo=discord&logoColor=white)](https://discord.com/users/552232329259778058)
+  [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&labelColor=333&logo=github&logoColor=white)](https://github.com/XEfnexX)
+  [![Instagram Badge](https://img.shields.io/badge/-@xefnexx-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/XEfnexX)
+  [![Stack Overflow Badge](https://img.shields.io/badge/-XEfnexX-f48024?style=for-the-badge&labelColor=f48024&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13786366/xefnexx)
+  [![Twitch Badge](https://img.shields.io/badge/-XEfnexX-6441a5?style=for-the-badge&labelColor=6441a5&logo=twitch&logoColor=white)](https://twitch.tv/xefnexx)
+  [![Twitter Badge](https://img.shields.io/badge/-@XEfnexX-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/XEfnexX)
+  [![YouTube Badge](https://img.shields.io/badge/-XEfnexX-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCC1pxttCg1js8RY5Ns961AQ)
+  
+  #### ⭐ Featured Projekte
+  [![XEfnexX's Manager Card](https://github-readme-stats.vercel.app/api/pin/?username=XEfnexX&repo=XEfnexXs-Manager&theme=tokyonight&show_owner=true)](https://github.com/XEfnexX/XEfnexXs-Manager)
 
-  
-  
-  #### Meine Skills 🧬
+  #### 🧬 Meine Skills
   [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=XEfnexX&langs_count=8&theme=tokyonight)](#)
   
-  #### GitHub Statistiken 📊
+  #### 📊 GitHub Statistiken
   [![XEfnexX GitHub Stats](https://github-readme-stats.vercel.app/api?username=XEfnexX&show_icons=true&theme=tokyonight&hide_title=true)](#)
   
 </details>
